@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SHSchool.BusinessLogic</name>
+    </assembly>
+    <members>
+        <member name="T:SHSchool.BusinessLogic.SHEvaluation">
+            <summary>
+            成績模組商業邏輯
+            </summary>
+        </member>
+        <member name="M:SHSchool.BusinessLogic.SHEvaluation.GetPassStandard(System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+            依學生系統編號取得學生每學年成績及格標準，預設每學年及格標準為60分，補考及格標準為50分。
+            </summary>
+            <param name="StudentIDs">學生系統編號</param>
+            <returns>成績及格標準物件列表</returns>
+        </member>
+        <member name="M:SHSchool.BusinessLogic.SHEvaluation.GetPassStandard(System.Collections.Generic.IEnumerable{System.String},System.Decimal,System.Decimal)">
+            <summary>
+            依學生系統編號取得學生每學年成績及格標準
+            </summary>
+            <param name="StudentIDs">學生系統編號</param>
+            <param name="DefaultPassStandard">預設每學年成績及格標準</param>
+            <param name="DefaultSupplementary">預設每年學補考成績及格標準</param>
+            <returns>成績及格標準物件列表</returns>
+        </member>
+        <member name="M:SHSchool.BusinessLogic.SHEvaluation.IsEverySchoolYearAcademicPass(System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.Int32})">
+            <summary>
+            是否每學年學業成績及格
+            </summary>
+            <param name="StudentIDs">學生系統編號</param>
+            <param name="SchoolYears">指定的學年度</param>
+            <returns>不及格的學生系統編號</returns>
+        </member>
+        <member name="T:SHSchool.BusinessLogic.SHPassStandardRecord">
+            <summary>
+            學生各年級及補考及格標準對照
+            </summary>
+        </member>
+        <member name="M:SHSchool.BusinessLogic.SHPassStandardRecord.#ctor(System.String,System.Decimal,System.Decimal)">
+            <summary>
+            建構式，傳入學生系統編號及預設成績及格標準
+            </summary>
+            <param name="RefStudentID">學生系統編號</param>
+            <param name="DefaultPassStandard">成績及格標準</param>
+        </member>
+        <member name="P:SHSchool.BusinessLogic.SHPassStandardRecord.RefStudentID">
+            <summary>
+            所屬學生系統編號
+            </summary>
+        </member>
+        <member name="P:SHSchool.BusinessLogic.SHPassStandardRecord.GradeYear1">
+            <summary>
+            一年級及格標準
+            </summary>
+        </member>
+        <member name="P:SHSchool.BusinessLogic.SHPassStandardRecord.GradeYear2">
+            <summary>
+            二年級及格標準
+            </summary>
+        </member>
+        <member name="P:SHSchool.BusinessLogic.SHPassStandardRecord.GradeYear3">
+            <summary>
+            三年級及格標準
+            </summary>
+        </member>
+        <member name="P:SHSchool.BusinessLogic.SHPassStandardRecord.GradeYear4">
+            <summary>
+            四年級及格標準
+            </summary>
+        </member>
+        <member name="P:SHSchool.BusinessLogic.SHPassStandardRecord.GradeYear1Supplementary">
+            <summary>
+            一年級補考標準
+            </summary>
+        </member>
+        <member name="P:SHSchool.BusinessLogic.SHPassStandardRecord.GradeYear2Supplementary">
+            <summary>
+            二年級補考標準
+            </summary>
+        </member>
+        <member name="P:SHSchool.BusinessLogic.SHPassStandardRecord.GradeYear3Supplementary">
+            <summary>
+            三年級補考標準
+            </summary>
+        </member>
+        <member name="P:SHSchool.BusinessLogic.SHPassStandardRecord.GradeYear4Supplementary">
+            <summary>
+            四年級補考標準
+            </summary>
+        </member>
+        <member name="T:SHSchool.BusinessLogic.SHBehavior">
+            <summary>
+            學務模組商業邏輯
+            </summary>
+        </member>
+        <member name="M:SHSchool.BusinessLogic.SHBehavior.CalculateDemerit(System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+            計算懲戒
+            </summary>
+            <param name="StudentIDs"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
