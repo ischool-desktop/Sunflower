@@ -1,0 +1,11 @@
+C:\Users\ED\Documents\ischool_github\Sunflower\固定排名中繼Excel整理\bin\Debug\固定排名中繼Excel整理.dll
+C:\Users\ED\Documents\ischool_github\Sunflower\固定排名中繼Excel整理\bin\Debug\固定排名中繼Excel整理.pdb
+C:\Users\ED\Documents\ischool_github\Sunflower\固定排名中繼Excel整理\obj\Debug\固定排名中繼Excel整理.csprojResolveAssemblyReference.cache
+C:\Users\ED\Documents\ischool_github\Sunflower\固定排名中繼Excel整理\obj\Debug\固定排名中繼Excel整理.CloneConfigure.resources
+C:\Users\ED\Documents\ischool_github\Sunflower\固定排名中繼Excel整理\obj\Debug\固定排名中繼Excel整理.ConfigForm.resources
+C:\Users\ED\Documents\ischool_github\Sunflower\固定排名中繼Excel整理\obj\Debug\固定排名中繼Excel整理.NewConfigure.resources
+C:\Users\ED\Documents\ischool_github\Sunflower\固定排名中繼Excel整理\obj\Debug\固定排名中繼Excel整理.Properties.Resources.resources
+C:\Users\ED\Documents\ischool_github\Sunflower\固定排名中繼Excel整理\obj\Debug\固定排名中繼Excel整理.SubjectTypeSettingForm.resources
+C:\Users\ED\Documents\ischool_github\Sunflower\固定排名中繼Excel整理\obj\Debug\固定排名中繼Excel整理.csproj.GenerateResource.Cache
+C:\Users\ED\Documents\ischool_github\Sunflower\固定排名中繼Excel整理\obj\Debug\固定排名中繼Excel整理.dll
+C:\Users\ED\Documents\ischool_github\Sunflower\固定排名中繼Excel整理\obj\Debug\固定排名中繼Excel整理.pdb

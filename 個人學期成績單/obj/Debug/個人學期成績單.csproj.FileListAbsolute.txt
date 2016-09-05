@@ -1,0 +1,8 @@
+C:\Users\ED\Documents\ischool_github\Sunflower\個人學期成績單\bin\Debug\個人學期成績單.dll
+C:\Users\ED\Documents\ischool_github\Sunflower\個人學期成績單\bin\Debug\個人學期成績單.pdb
+C:\Users\ED\Documents\ischool_github\Sunflower\個人學期成績單\obj\Debug\個人學期成績單.csprojResolveAssemblyReference.cache
+C:\Users\ED\Documents\ischool_github\Sunflower\個人學期成績單\obj\Debug\個人學期成績單.PersonalSemesterScoreReportForm.resources
+C:\Users\ED\Documents\ischool_github\Sunflower\個人學期成績單\obj\Debug\個人學期成績單.Properties.Resources.resources
+C:\Users\ED\Documents\ischool_github\Sunflower\個人學期成績單\obj\Debug\個人學期成績單.csproj.GenerateResource.Cache
+C:\Users\ED\Documents\ischool_github\Sunflower\個人學期成績單\obj\Debug\個人學期成績單.dll
+C:\Users\ED\Documents\ischool_github\Sunflower\個人學期成績單\obj\Debug\個人學期成績單.pdb
